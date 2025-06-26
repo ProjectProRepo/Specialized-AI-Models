@@ -1,0 +1,15 @@
+Customer Name: Jane Doe  
+Ticket ID: 98347  
+Date: June 22, 2025  
+Priority: High  
+
+Issue:  
+I purchased a SmartHome Thermostat Model X200 last month from your website. It worked fine for the first week, but then it started losing Wi-Fi connectivity every few hours. I’ve tried resetting it multiple times and even changed my router settings as per the FAQ, but the issue persists.
+
+I reached out to your support team last week and was promised a follow-up within 48 hours — I haven't heard back yet. This is very frustrating, especially since I rely on the device to regulate temperature while I’m away from home. I would appreciate either a full refund or a replacement unit that works reliably.
+
+Please escalate this issue to a senior technician and get back to me as soon as possible.
+
+Attachments:  
+- Screenshot of error message  
+- Router settings screenshot  
